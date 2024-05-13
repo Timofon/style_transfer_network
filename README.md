@@ -1,2 +1,2 @@
-# style_transfer_network
+# Style transfer network
 My course project
